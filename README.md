@@ -6,6 +6,8 @@ The objectives of this assignment are to:
 - Be able to use the public methods, such as get and set methods of an Object to read and write values stored in that Object.
 - Understand that the data stored in an Object can only be accessed by the public methods defined in that Object's class definition.
 
+
+0. Create a class called BankingDriver with a main method (all the below steps you will put in the main in BankingDriver)
 1. Create a BankAccount object called nicksAcct such that Nick initially has $450 in his checking account, and $550 in his savings account.
 2. Create a BankAccount object called carolsAcct such that Carol initially has $600 in her checking account, and $700 in her savings account.
 3. Print out a report of the checking and savings information on both Nick's and Carol's accounts using the printReport method in the BankAccount class. The output should look like this:
